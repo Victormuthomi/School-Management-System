@@ -103,7 +103,12 @@ def view_record():
 
 # Initializing the GUI window
 main = Tk()
-main.title('DataFlair School Management System')
+main.title('Pyjav School Management System')
+# Initializing the GUI window
+main = Tk()
+main.title('Pyjav School Management System')
+main.geometry('1000x600')
+main.resizable(0, 0)
 main.geometry('1000x600')
 main.resizable(0, 0)
 
